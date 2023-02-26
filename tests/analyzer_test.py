@@ -1,9 +1,7 @@
 from seo_analyzer.analyzer import InitialWebAnalytics
 
 
-mock_data = {
-    "url": "https://google.com"
-}
+mock_data = "https://google.com"
 
 
 def test_seo_analyze():
