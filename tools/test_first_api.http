@@ -1,0 +1,3 @@
+POST localhost:5000/create_analytics
+
+{"url": "https://cyberchimps.com/blog/qwe"}

@@ -1,0 +1,3 @@
+POST localhost:5000/investigate_analytics
+
+{"domain_name": "cyberchimps.com"}
